@@ -12,3 +12,4 @@ OneHotEncoder and StandardScaler: I'm not all that familiar with these modules i
 # Putting it all together
 - Pipeline puts it all together for us. It pre-processes our data and then does the random forest regression on both training and test data. Very slick.
 # Link to the model
+https://github.com/bllarso2/CAS-502-LOS/blob/main/CAS502_FINAL_ST.ipynb
